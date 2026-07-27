@@ -1,7 +1,7 @@
 {
-  "updateTime": "2026-07-26 07:59:32",
-  "updateDate": "2026年07月26日",
-  "weekDay": "日",
+  "updateTime": "2026-07-27 12:39:29",
+  "updateDate": "2026年07月27日",
+  "weekDay": "一",
   "tech": [
     {
       "title": "美股三大指数最新行情（模板）",
@@ -21,123 +21,123 @@
   "speaking": {
     "scenes": [
       {
-        "title": "✈️ 机场接机寒暄",
+        "title": "📞 电话跟进订单进度",
         "dialogue": [
           {
             "speaker": "You",
-            "text": "Welcome to Shanghai! Did you have a smooth flight?"
+            "text": "Hi David, just calling to update you on your order. Production is right on schedule."
           },
           {
             "speaker": "Client",
-            "text": "Yes, thank you. It was about 14 hours, but I managed to get some sleep."
+            "text": "That's great to hear. Any chance we could get a partial shipment earlier?"
           },
           {
             "speaker": "You",
-            "text": "That's good to hear. The car is waiting outside. Shall we head to the hotel first?"
+            "text": "Let me check... Yes, we can ship 60% by next Friday, and the rest the following week."
           },
           {
             "speaker": "Client",
-            "text": "That would be great. I could use a shower and a change of clothes."
+            "text": "Perfect. And the quality inspection — is that all done?"
           },
           {
             "speaker": "You",
-            "text": "Of course. The hotel is about 30 minutes from here. We can discuss the schedule on the way."
+            "text": "Absolutely. All items passed QC yesterday. I can send you the report right now."
           }
         ],
-        "tips": "💡 关键短语：smooth flight（顺利的飞行）、head to（前往）、could use（想要/需要）"
+        "tips": "💡 关键短语：on schedule（按计划）、partial shipment（分批装运）、QC report（质检报告）"
       }
     ],
     "culture_tip": {
-      "title": "跨文化小贴士：欧美客户篇",
+      "title": "跨文化小贴士：拉美客户篇",
       "points": [
-        "👋 见面礼仪：握手要有力、眼神交流、面带微笑",
-        "📧 沟通习惯：欧美客户倾向直接坦诚的沟通方式，不喜欢拐弯抹角",
-        "🕐 时间管理：准时非常重要，迟到会被视为不专业",
-        "📊 谈判风格：注重数据和事实支撑，不喜欢空泛的承诺",
-        "🏠 私人空间：保持适当身体距离（约一臂），不要过于亲密"
+        "🤗 热情问候：拉美客户通常很热情，拥抱贴面礼很常见",
+        "☕ 闲聊文化：不要一上来就谈业务，先喝杯咖啡聊聊生活和足球",
+        "⏰ 弹性时间：会议可能延迟15-30分钟，这是文化习惯，不要表现出不耐烦",
+        "👨‍👩‍👧 家庭观念：问候对方家人是拉近关系的好方式",
+        "🤝 关系优先：拉美客户更看重个人关系而非合同条款"
       ]
     }
   },
   "listening": {
-    "level": 3,
-    "level_text": "Level 3 · 进阶",
-    "difficulty": "★★★☆☆",
-    "title": "Negotiating Price Terms",
-    "speed": "中等偏快",
-    "duration": "约1分15秒",
-    "text": "A: We've reviewed your quotation and it's a bit above our budget. Is there room for negotiation?\nB: I understand. May I ask what target price you have in mind?\nA: We're looking at around $12.50 per unit for an order of 5,000 pieces.\nB: That's quite a stretch. At that volume, the best I can offer is $13.20, and that includes free shipping.\nA: If we increase the order to 8,000, can you meet us at $12.80?\nB: Let me check with our production team and get back to you by tomorrow. But I think we can work something out.",
+    "level": 1,
+    "level_text": "Level 1 · 基础",
+    "difficulty": "★☆☆☆☆",
+    "title": "Ordering Coffee at a Café",
+    "speed": "慢",
+    "duration": "约30秒",
+    "text": "A: Good morning! What can I get for you today?\nB: I'd like a medium latte, please. With oat milk if you have it.\nA: Sure! Would you like anything to eat with that?\nB: Just a croissant, please. To go.\nA: That'll be $8.50. Card or cash?\nB: Card, please. Contactless is fine.",
     "vocab": [
-      "quotation（报价）",
-      "room for negotiation（议价空间）",
-      "target price（目标价）",
-      "work something out（找到解决方案）"
+      "oat milk（燕麦奶）",
+      "croissant（可颂/牛角包）",
+      "to go（带走）",
+      "contactless（免接触支付）"
     ],
     "tags": [
-      "价格谈判",
-      "中级+"
+      "日常场景",
+      "初级"
     ]
   },
   "fashion": {
     "color_tip": {
-      "title": "今日色彩搭配：奶油黄 × 雾霾蓝",
-      "desc": "橄榄皮超友好的配色！奶油黄温暖柔和衬肤色，雾霾蓝低饱和度显白不挑人。",
-      "formula": "奶油黄上衣 + 雾霾蓝直筒牛仔裤 + 米白色单鞋",
+      "title": "今日色彩搭配：薄荷绿 × 米杏色",
+      "desc": "清新减龄配色！薄荷绿温柔清爽，米杏色柔和温暖，两个低饱和色叠加超级显白。",
+      "formula": "薄荷绿衬衫 + 米杏色阔腿裤 + 白色乐福鞋",
       "colors": [
-        "#F7E8A0",
-        "#B0C8D8",
-        "#F5F0E0",
+        "#B5D8C8",
+        "#F0E4D0",
+        "#FFFFFF",
         "#D4A574"
       ],
       "color_names": [
-        "奶油黄",
-        "雾霾蓝",
-        "米白",
+        "薄荷绿",
+        "米杏色",
+        "白色",
         "浅棕"
       ]
     },
     "looks": [
       {
-        "title": "一字肩针织上衣 + 直筒牛仔半裙",
+        "title": "圆领真丝衬衫 + 垂感阔腿裤",
         "top": {
-          "emoji": "🧶",
-          "desc": "浅粉色一字肩针织衫，露锁骨不露手臂，袖口微喇修饰"
+          "emoji": "👔",
+          "desc": "香槟色圆领真丝衬衫，微泡泡袖修饰手臂，光泽感提气色"
         },
         "bottom": {
           "emoji": "👖",
-          "desc": "浅蓝直筒牛仔半裙，中长款过膝，前开衩设计"
+          "desc": "奶油白垂感阔腿裤，高腰设计，不贴腿修饰胯部"
         },
-        "tips": "一字肩拉长颈部线条，浅粉色衬橄榄皮；直筒牛仔半裙修饰胯部不紧绷；搭配3cm中跟米色凉鞋。",
+        "tips": "圆领露出锁骨，香槟色光泽感衬橄榄皮超显白！垂感阔腿裤遮胯显瘦，搭配5cm粗跟凉鞋。",
         "tags": [
-          "一字肩",
-          "牛仔半裙",
-          "小个子"
+          "阔腿裤",
+          "真丝衬衫",
+          "商务穿搭"
         ],
-        "search_url": "https://www.xiaohongshu.com/search_result?keyword=一字肩针织+直筒牛仔半裙+小个子"
+        "search_url": "https://www.douyin.com/search/小个子梨型身材+阔腿裤穿搭"
       },
       {
-        "title": "V领收腰连衣裙 + 短款开衫",
+        "title": "一字肩碎花上衣 + 高腰A字半裙",
         "top": {
-          "emoji": "👗",
-          "desc": "雾霾蓝V领收腰连衣裙，A字微摆不蓬松，七分袖遮手臂"
+          "emoji": "🌸",
+          "desc": "鹅黄色一字肩碎花上衣，松紧领口两穿，微泡泡袖"
         },
         "bottom": {
-          "emoji": "🧥",
-          "desc": "米白色短款针织开衫，长度到腰线以上，强调高腰比例"
+          "emoji": "👗",
+          "desc": "白色高腰A字半裙，挺括棉质面料，非纱质不蓬松"
         },
-        "tips": "V领显脸小、延伸颈部；收腰突出细腰优势；短开衫提高腰线，158cm也能穿出好比例！",
+        "tips": "鹅黄色是橄榄皮的本命色！一字肩两穿，A字半裙材质挺括，搭配编织凉鞋（3cm跟）。",
         "tags": [
-          "V领",
-          "收腰裙",
-          "开衫搭配"
+          "碎花",
+          "A字裙",
+          "约会穿搭"
         ],
-        "search_url": "https://www.xiaohongshu.com/search_result?keyword=V领收腰连衣裙+小个子+梨型"
+        "search_url": "https://www.xiaohongshu.com/search_result?keyword=鹅黄色一字肩+梨型身材+小个子"
       }
     ],
     "shoes": {
       "items": [
-        "👡 米白色方头中跟凉鞋（跟高4cm）- 百搭色，粗跟好走不累",
-        "👠 裸粉色尖头中跟单鞋（跟高4.5cm）- 延伸脚背显腿长",
-        "🥿 编织坡跟凉拖（跟高3.5cm）- 休闲精致有呼吸感"
+        "👡 杏色方头粗跟凉鞋（跟高4cm）- 温柔百搭",
+        "👠 白色尖头穆勒鞋（跟高3.5cm）- 慵懒精致",
+        "🥿 裸粉色芭蕾平底鞋（内增高2cm）- 舒适显高"
       ],
       "tip": "小个子选鞋：尖头>圆头；裸色>深色；露脚背>全包裹；粗跟3-5cm最舒适"
     }
